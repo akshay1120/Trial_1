@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="5911" started-at="2021-05-06T17:29:35Z" finished-at="2021-05-06T17:29:41Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="5911" started-at="2021-05-06T17:29:35Z" finished-at="2021-05-06T17:29:41Z">
+      <class name="pageObjectModel.DashboardTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pageObjectModel.DashboardTest@475530b9]" name="setUp" is-config="true" duration-ms="2831" started-at="2021-05-06T22:59:36Z" finished-at="2021-05-06T22:59:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="coursesHeading()[pri:0, instance:pageObjectModel.DashboardTest@475530b9]" name="coursesHeading" duration-ms="804" started-at="2021-05-06T22:59:38Z" finished-at="2021-05-06T22:59:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- coursesHeading -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pageObjectModel.DashboardTest@475530b9]" name="setUp" is-config="true" duration-ms="1649" started-at="2021-05-06T22:59:39Z" finished-at="2021-05-06T22:59:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validLoginTest_2()[pri:0, instance:pageObjectModel.DashboardTest@475530b9]" name="validLoginTest_2" duration-ms="591" started-at="2021-05-06T22:59:41Z" finished-at="2021-05-06T22:59:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest_2 -->
+      </class> <!-- pageObjectModel.DashboardTest -->
+      <class name="pageObjectModel.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pageObjectModel.LoginTest@2b98378d]" name="setUp" is-config="true" duration-ms="2821" started-at="2021-05-06T22:59:36Z" finished-at="2021-05-06T22:59:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validLoginTest_1()[pri:0, instance:pageObjectModel.LoginTest@2b98378d]" name="validLoginTest_1" duration-ms="666" started-at="2021-05-06T22:59:38Z" finished-at="2021-05-06T22:59:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest_1 -->
+      </class> <!-- pageObjectModel.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
