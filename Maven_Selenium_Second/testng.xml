@@ -6,5 +6,6 @@
       <class name="pageObjectModel.LoginTest"/>
       <class name="pageObjectModel.DashboardTest"/>
     </classes>
+    
   </test> <!-- Test -->
 </suite> <!-- Suite -->
